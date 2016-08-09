@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<message>
+		<message_header>
+			<emp_number>1000</emp_number>
+			<time>2016-07-21 10:49:08</time>
+			<trading_code>1000001001</trading_code>
+			<serial_number>14690693489041000001001</serial_number>
+		</message_header>
+		
+		<message_body>
+			<card_psw>222222</card_psw>
+			<money>1000.0</money>
+			<cuerstom_id>0</cuerstom_id>
+			<id>222222</id>
+			<class>class hjj.dcits.teller.entities.Account</class>
+			<card_id>1234567890</card_id>
+			<emp_id>0</emp_id>	
+		</message_body>
+	</message>

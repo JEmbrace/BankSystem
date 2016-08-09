@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<message>
+		<message_header>
+			<emp_number>20000</emp_number>
+			<time>2016-07-20 13:33:51</time>
+			<trading_code>1000000000</trading_code>
+			<serial_number>14689928316071000000000</serial_number>
+		</message_header>
+		
+		<message_body>
+			<ename>dshf</ename>
+			<address>西安</address>
+			<province>陕西</province>
+			<city>dspfji</city>
+			<contry>jjj</contry>
+			<cname>hhh</cname>
+			<creator_id>11</creator_id>
+			<tel>127410</tel>
+			<id>1</id>
+			<class>class hjj.dcits.teller.entities.Customer</class>
+		</message_body>
+	</message>
